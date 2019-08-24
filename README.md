@@ -49,6 +49,12 @@ pip3 install requests, beautifulsoup4
 python3 scarpe.py
 ```
 
+You can also make this as an api call using [Flask](https://www.fullstackpython.com/flask.html). You can look at my other project where I'm using this script as an api call using flask (link to be up soon)
+
+## Future features
+
+Add hold item status to the json
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
